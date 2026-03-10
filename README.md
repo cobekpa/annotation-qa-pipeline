@@ -105,6 +105,35 @@ The notebook generates a **sentiment distribution chart with percentage breakdow
 ---
 ![alt text](notebooks/Figure_1.png)
 
+## Key Observations
+
+The results indicate that the majority of users have a positive experience with fintech banking applications such as Opay, Moniepoint, PalmPay, and Kuda. With over 80% of reviews expressing positive sentiment, the data suggests widespread user satisfaction with features such as:
+
+- Fast money transfers
+- Ease of account management
+- Mobile-first banking services
+- Accessibility of financial services
+
+This high level of positive sentiment highlights the rapid adoption of fintech platforms in Nigeria, particularly among users who prefer convenient digital banking solutions over traditional banking systems.
+
+## Industry Context
+
+Nigeria has experienced significant growth in mobile banking and digital financial services over the past decade. Fintech companies have successfully addressed several pain points traditionally associated with conventional banking, including:
+
+- Long queues at bank branches
+- Slow transaction processing
+- Limited accessibility in underserved areas
+
+As a result, fintech platforms are increasingly attracting users who seek faster, more efficient, and user-friendly financial services. This shift is gradually influencing the competitive landscape of the Nigerian banking sector, where traditional banks are now facing increasing pressure to improve their digital offerings.
+
+## Implications for Data and AI Projects
+The strong positive sentiment observed in this dataset demonstrates the potential value of user review mining and sentiment analysis in understanding customer satisfaction and product perception. Organizations can leverage similar NLP pipelines to:
+
+- Monitor customer feedback at scale
+- Identify service issues early
+- Track brand perception over time
+- Improve product development using data-driven insights
+
 ## Installation
 
 Clone the repository:
