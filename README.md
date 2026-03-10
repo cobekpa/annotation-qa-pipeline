@@ -102,14 +102,6 @@ A Jupyter notebook is included to visualize the dataset distribution.
 
 The notebook generates a **sentiment distribution chart with percentage breakdown**, allowing quick identification of annotation bias or imbalance.
 
-Example insight:
-
-| Sentiment | Percentage |
-| --------- | ---------- |
-| Positive  | 48%        |
-| Neutral   | 32%        |
-| Negative  | 20%        |
-
 ---
 ![alt text](notebooks/Figure_1.png)
 
@@ -177,7 +169,7 @@ reports/qc_summary.csv
 
 | total_records | missing_sentiment | duplicate_reviews |
 | ------------- | ----------------- | ----------------- |
-| 250           | 0                 | 3                 |
+|     572       | 0                 | 0                 |
 
 This report provides a quick overview of the dataset's annotation quality.
 
